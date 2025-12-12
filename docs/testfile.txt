@@ -1,1 +1,83 @@
-first file
+Sample JD 1: Graduate Trainee – Java Full Stack Developer
+
+Role Overview We are looking for enthusiastic fresh graduates to join our engineering team as Java Full Stack Developers. This role is designed for campus hires who have completed training in Java, Spring Boot, ReactJS, and MySQL, and are eager to apply their skills in real-world projects.
+
+Key Responsibilities
+
+· Assist in developing web applications using Java, Spring Boot, and ReactJS.
+
+· Write clean, maintainable code following best practices.
+
+· Support database design and queries using MySQL.
+
+· Collaborate with senior developers to integrate backend APIs with frontend components.
+
+· Participate in code reviews, testing, and debugging.
+
+· Learn and apply Git/GitHub for version control and team collaboration.
+
+· Contribute to project documentation and SDLC activities.
+
+Required Skills
+
+· Strong foundation in Core Java (OOPs, Collections, Exception Handling, Multithreading).
+
+· Exposure to Spring Framework, JDBC, and RESTful APIs.
+
+· Basic knowledge of ReactJS, HTML, CSS, JavaScript ES6.
+
+· Familiarity with SQL queries, joins, and normalization.
+
+· Understanding of JUnit testing and CI/CD concepts.
+
+· Eagerness to learn Microservices, Cloud Computing, and DevOps tools (Jenkins).
+
+Qualifications
+
+· Bachelor’s degree in Computer Science, IT, or related field (2025 graduates preferred).
+
+· Completed academic projects or training in Java-based technologies.
+
+· Strong problem-solving and communication skills.
+
+Sample JD 2: Campus Hire – Java Backend Engineer
+
+Role Overview We are hiring entry-level Java Backend Engineers from campus who are passionate about building scalable backend systems. This role is ideal for freshers trained in Java, Spring Boot, MySQL, and Microservices basics.
+
+Key Responsibilities
+
+· Support backend development using Java, Spring Boot, and JDBC.
+
+· Work with MySQL databases for schema design, queries, and stored procedures.
+
+· Assist in developing and testing RESTful APIs.
+
+· Implement secure coding practices with proper encapsulation, abstraction, and exception handling.
+
+· Collaborate with frontend teams for integration.
+
+· Write unit tests using JUnit and support automated testing pipelines.
+
+· Gain exposure to Microservices architecture, Unix/Linux basics, and cloud platforms.
+
+Required Skills
+
+· Solid understanding of Core Java concepts (Inheritance, Polymorphism, Interfaces, Packages).
+
+· Knowledge of Spring Boot, JDBC API, and REST services.
+
+· Basic SQL skills (DDL, DML, Joins, Functions).
+
+· Familiarity with Git version control.
+
+· Exposure to Agile methodology and SDLC models.
+
+· Willingness to learn DevOps (Jenkins) and Cloud Computing (AWS basics).
+
+Qualifications
+
+· Bachelor’s degree in Computer Science, Engineering, or related discipline.
+
+· Fresh graduates with strong academic projects or internships in Java.
+
+· Good analytical and communication skills.
