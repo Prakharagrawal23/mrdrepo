@@ -1,1 +1,20 @@
-https://www.youtube.com/playlist?list=PL0zysOflRCel7gR5T2_6BhK0lefArS4hO
+Overall Score: 4.2/5 (84%)
+Result: SELECTED
+
+
+Comprehensive understanding of Core Java and OOP principles
+Practical implementation experience with Spring Boot
+Experience with modern frontend technologies (React)
+More emphasis needed on testing methodologies
+Could elaborate more on system design considerations
+
+
+
+Overall Score: (4/5 Stars) - 85%
+Result: Selected
+
+Comprehensive explanation of inheritance concept
+Well-structured response with clear examples
+Could have mentioned multiple inheritance limitations in Java
+Additional discussion on inheritance types (single, multilevel, hierarchical)
+Discussion of real-world applications could be expanded
